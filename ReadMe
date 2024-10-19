@@ -1,0 +1,11 @@
+Login Details
+
+Email => doro@gmail.com
+Password => test
+
+Open Xampp control
+Enable Apache & MySql
+
+on mysql tab, click admin
+then click import and import your database
+
